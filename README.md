@@ -1,6 +1,13 @@
 # PetDog-Complete-Website
-<ul>
-  <li>This is a front-end E-Commerce website for Pet Dog.</li>
-  <li>This website allows users to purchase their preferred dog breed.</li>
+  * It is an E-Commerce website to buy Pet Dog online.
+  * It is a mobile friendly website.
 
-You can visit my website by clicking here https://valentinefernandes.github.io/PetDog-Complete-Website/ 
+## Technologies used
+* HTML
+* CSS
+* Bootstrap
+
+### Visit the website here 
+https://valentinefernandes.github.io/PetDog-Complete-Website/ 
+
+
