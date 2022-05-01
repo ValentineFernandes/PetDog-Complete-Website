@@ -8,8 +8,10 @@
 <img src="https://img.shields.io/badge/Bootstrap-993399?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 ## IDE used
-<img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">
+<img src="https://img.shields.io/badge/Atom-00E68A?style=for-the-badge&logo=Atom&logoColor=white">
 
 ### Visit the website here 
   https://valentinefernandes.github.io/PetDog-Complete-Website/
+  
+
 
