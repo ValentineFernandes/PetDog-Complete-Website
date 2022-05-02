@@ -11,7 +11,9 @@
 <img src="https://img.shields.io/badge/Atom-00E68A?style=for-the-badge&logo=Atom&logoColor=white">
 
 ### Visit the website here 
-  https://valentinefernandes.github.io/PetDog-Complete-Website/
-  
+<a href="https://valentinefernandes.github.io/PetDog-Complete-Website/">
+<img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/github.png"></a>
+&nbsp;<a href="https://petdogwebsite.netlify.app"><img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/netlify.jpg"></a>
+ 
 
 
