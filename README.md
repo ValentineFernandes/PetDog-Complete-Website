@@ -1,6 +1,6 @@
 # PetDog-Complete-Website
-  * It is an E-Commerce website to buy Pet Dog online.
-  * It is a mobile friendly website.
+✅ It is an E-Commerce website to buy Pet Dog online.<br/>
+✅ It is a mobile friendly website.
 <img align="left" width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img1.jpg" />
 
 ## Technologies used
@@ -19,3 +19,9 @@
 # License
 This project is under <a href="https://github.com/ValentineFernandes/PetDog-Complete-Website/blob/main/LICENSE">MIT</a> license.
 
+# Contribution
+If you liked the project :<br/>
+✅ Give a star. ⭐ <br/>
+✅ Fork the repository.<br/>
+✅ Clone the project to your own computer.<br/>
+✅ Commit changes.
