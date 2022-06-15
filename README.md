@@ -1,5 +1,5 @@
 # PetDog-Complete-Website
-✅ It is an E-Commerce website to buy Pet Dog online.<br/>
+✅ It is an E-Commerce website to buy Pet Dog online.<br/> 
 ✅ It is a mobile friendly website.
 <img align="left" width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img1.jpg" />
 
