@@ -17,8 +17,8 @@
 </a>
 <img alt="GitHub Forks" src="https://img.shields.io/github/forks/ValentineFernandes/PetDog-Complete-Website?color=success" />
 <img alt="Stars" src= "https://img.shields.io/github/stars/ValentineFernandes/PetDog-Complete-Website?color=success" />
-<img alt= "Repo size" src= "https://img.shields.io/github/repo-size/ValentineFernandes/PetDog-Complete-Website?color=success" />
-<img alt= "Last commit" src="https://img.shields.io/github/last-commit/ValentineFernandes/PetDog-Complete-Website?color=success" />
+<img alt= " Repo size" src= "https://img.shields.io/github/repo-size/ValentineFernandes/PetDog-Complete-Website?color=success" />
+<img alt= " Last commit" src= "https://img.shields.io/github/last-commit/ValentineFernandes/PetDog-Complete-Website?color=success" />
 </p>
 
 
