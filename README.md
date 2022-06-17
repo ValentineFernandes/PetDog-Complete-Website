@@ -1,10 +1,26 @@
+
 <h1 align="center">PetDog Complete Website</h1>
 
-<img align="left" width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img1.jpg" />
 
-# 📝 Features
-✅ It is an E-Commerce website to buy Pet Dog online.<br/> 
-✅ It is a mobile friendly website. <br/>
+> It's an e-commerce site where you can buy a pet dog online.
+
+
+> It's a website that's compatible with mobile devices.
+
+
+<p align="center">
+<a href="http://www.linkedin.com/in/valentine-fernandes-75701622b">
+<img alt="Valentine Fernandes" src="https://img.shields.io/badge/-ValentineFernandes-7FFF00?style=flat&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/ValentineFernandes/PetDog-Complete-Website/blob/main/LICENSE">
+<img alt="License: MIT" src="https://img.shields.io/github/license/ValentineFernandes/PetDog-Complete-Website?color=success" />
+</a>
+<img alt="GitHub Forks" src="https://img.shields.io/github/forks/ValentineFernandes/PetDog-Complete-Website?color=success" />
+<img alt="Stars" src= "https://img.shields.io/github/stars/ValentineFernandes/PetDog-Complete-Website?color=success" />
+<img alt= "Repo size" src= "https://img.shields.io/github/repo-size/ValentineFernandes/PetDog-Complete-Website?color=success" />
+<img alt= "Last commit" src="https://img.shields.io/github/last-commit/ValentineFernandes/PetDog-Complete-Website?color=success" />
+</p>
+
 
 <div align="center">
 <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/PetDog.png" width="600">
