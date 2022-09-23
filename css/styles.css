@@ -61,6 +61,23 @@ p {
 .nav-link {
   font-size: 1.2rem;
   font-family: "Montserrat-Light";
+  color: rgba(255, 255, 255, 0.850) !important;
+}
+.nav-link:hover {
+  color: rgba(255, 255, 255) !important;
+  -webkit-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+.navbar-toggler, .navbar-toggler-icon {
+  border-color: rgba(255, 255, 255, 0.600) !important;
+}
+.navbar-toggler:hover {
+  background-color: rgba(255, 255, 255, 0.100) !important;
+  border-color: rgba(255, 255, 255, 0.7) !important;
+  -webkit-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
 }
 
 /* Buttons */
