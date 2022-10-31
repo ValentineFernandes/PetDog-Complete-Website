@@ -90,10 +90,10 @@ p {
 /* Title Image */
 
 .title-image {
-  width: 60%;
+  width: 50%;
   transform: rotate(0deg);
   position: absolute;
-  right: 20%;
+  right: 3%;
   border-radius: 50%;
 }
 
